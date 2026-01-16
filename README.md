@@ -1,19 +1,15 @@
-# 🔐 Cybersecurity Notes
-
----
-
 <!-- ===================== -->
-<!-- 🐧 LINUX -->
+<!-- 🐧 LINUX SECTION -->
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="150">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" width="140">
 </p>
 
 <h2 align="center">🐧 Linux</h2>
 
 <p align="center">
-  GNU/Linux temelleri, Kali Linux araçları ve siber güvenlik odaklı Linux notları.
+  GNU/Linux mimarisi, Kali Linux araçları ve siber güvenlik odaklı Linux notları.
 </p>
 
 <p align="center">
@@ -21,14 +17,14 @@
   <a href="linux-network/gnu-linux.md">🐧 GNU / Linux</a>
 </p>
 
----
+<hr/>
 
 <!-- ===================== -->
-<!-- 🌐 NETWORK -->
+<!-- 🌐 NETWORK SECTION -->
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/infrastructure/infrastructure.png" width="150">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/networking/networking.png" width="140">
 </p>
 
 <h2 align="center">🌐 Network</h2>
