@@ -24,8 +24,9 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/networking/networking.png" width="140">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/infrastructure/infrastructure.png" width="140">
 </p>
+
 
 <h2 align="center">🌐 Network</h2>
 
