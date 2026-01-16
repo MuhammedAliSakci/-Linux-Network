@@ -34,6 +34,6 @@
 </p>
 
 <p align="center">
-  <a href="linux-network/networking-basics.md">📘 Networking Basics</a>
+  <a href="📘 Networking Basics.md">📘 Networking Basics</a>
 </p>
 
