@@ -3,7 +3,7 @@
 
 ---
 
-<details>
+
   <summary><strong>📘 Networking Basics İçeriği (Tıkla & Gör)</strong></summary>
 
   <br/>
@@ -43,7 +43,7 @@
   ## 🧪 Operations
   - 🧰 [Troubleshooting (Sorun Çözme)](./18-troubleshooting.md)
 
-</details>
+
 
 ---
 
